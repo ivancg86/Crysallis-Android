@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chrysallis Events</string>
+    <string name="English">Ingelesez</string>
+    <string name="Euskera">Euskal</string>
+    <string name="Galician">Galiziako</string>
+    <string name="Login">Saioa hasi</string>
+    <string name="Spanish">Gaztelania</string>
+    <string name="language">Hizkuntza</string>
+    <string name="password">Pasahitza</string>
+    <string name="telefono">Telefono</string>
+    <string name="user">Erabiltzaile</string>
+    <string name="Catalan">Katalanez</string>
+    <string name="messageForgotPassword"><u>Pasahitza ahaztu zait.</u></string>
+    <string name="home">Home</string>
+    <string name="title_perfil">Profile</string>
+    <string name="title_explorar">Arakatu</string>
+    <string name="destacados">Nabarmenduak</string>
+    <string name="title_chat">Chat</string>
+    <string name="loginIncorrect">Erabiltzaile-izena edo pasahitza okerra</string>
+    <string name="eventos">Nire gertaerak</string>
+    <string name="changePassword">Pasahitza aldatu</string>
+    <string name="contact">Kontaktua</string>
+    <string name="community">Komunitatea</string>
+    <string name="searchLabel">Bilatu</string>
+    <string name="address">Helbidea</string>
+    <string name="date">Data</string>
+    <string name="newPassword">Pasahitz berria</string>
+    <string name="newPasswordConfirmation">Pasahitzaren berrespena</string>
+    <string name="passwordChanged">Pasahitza aldatu da</string>
+    <string name="accept">Onartu</string>
+    <string name="cancel">Utzi</string>
+    <string name="passwordsNotMatch">Pasahitzak ez datoz bat</string>
+    <string name="changeLanguage">Hizkuntza aldatu</string>
+    <string name="languageChanced">Hizkuntza aldatu da</string>
+    <string name="restartApp">Berrabiarazi aplikazioa</string>
+    <string name="languageNotChanced" >Hizkuntza aldatu ez</string>
+    <string name="passwordNotChanged">Ezin izan da pasahitza aldatu</string>
+    <string name="PermisoDenegado">Baimena ukatuta</string>
+    <string name="ChooseGallery" >Aukeratu galeriatik</string>
+    <string name="NoCamera" >Telefonoak ez du kamerarik</string>
+    <string name="TakePhoto" >Argazki bat atera</string>
+    <string name="ChooseProfilePicture" >Aukeratu profileko argazkia</string>
+    <string name="email">Posta elektroniko helbidea</string>
+    <string name="sendPassword">Bidali pasahitza</string>
+    <string name="msgNotEvents">Oraindik ez dago gertaera berririk.</string>
+    <string name="NewPasword">Crysallis Events-en pasahitz berria hau da:\u0020</string>
+    <string name="recomendacion">\n\nPasahitz hau aldatzea gomendatzen dugu \n\nEz dut erantzunik, mezu elektroniko automatikoa da</string>
+    <string name="errorEmail">Posta elektronikoa ez da behar bezala bidali</string>
+    <string name="event">Gertaera</string>
+    <string name="join">Eman izena</string>
+    <string name="notActive">Bazkidea ez dago aktiboa</string>
+    <string name="numAttendants">Bertaratutako kopurua</string>
+    <string name="notNumber">Ez da baliozko zenbakirik sartu</string>
+    <string name="attendanceConfirmation">Asistentziaren berrespena</string>
+    <string name="attendanceConfirmed">Bertaratzea berretsi zen</string>
+    <string name="apuntado">Ekitaldirako izena eman duzu</string>
+    <string name="time">Denbora</string>
+    <string name="description">Azalpena</string>
+    <string name="noResponder">Ez erantzun hau mezu elektronikoa da</string>
+    <string name="joined">Alta</string>
+    <string name="fechaLimite">Ezin da parte hartu. Izena emateko azken eguna.</string>
+    <string name="wrongDate">Data okerra, uneko edo handiagoa den data aukeratu behar duzu</string>
+    <string name="documents">Dokumentuak</string>
+    <string name="notAttendanceConfirmation">Ezeztapenaren berrespena</string>
+    <string name="notAttendance">Harpidetu nahi al duzu?</string>
+    <string name="notAttendanceConfirmed">Baxua baieztatu da</string>
+    <string name="no">Ez</string>
+    <string name="yes">Bai</string>
+    <string name="comment">Iruzkin</string>
+    <string name="noStars">Ez dago hautatutako izarrik</string>
+    <string name="ratingSaved">Gordetako balorazioa</string>
+    <string name="rate">Valora</string>
+    <string name="PermisoConcedido">Emandako baimena</string>
+    <string name="ImageChanged">Irudia aldatu da</string>
+    <string name="ImageCannot2mb">Irudiak ezin du 2 MB baino gehiago izan</string>
+    <string name="ImageNotChanged">Irudia ez da aldatu</string>
+    <string name="communityNotChanged">Komunitatea ez da aldatu</string>
+    <string name="communityChanged">Komunitatea aldatu da</string>
+    <string name="logout">Saioa amaitu</string>
+    <string name="deleteConfirmation">Ezabatu mezua</string>
+    <string name="messageDelete">Mezua betiko ezabatuko da</string>
+    <string name="messageDeleted">Mezua ezabatu egin da</string>
+    <string name="messageNotDeleted">Ezin izan da mezua ezabatu</string>
+    <string name="writeAMessage">Idatzi mezu bat...</string>
+    <string name="msgNoDocuments">Ez dago agiririk ekitaldi honetarako</string>
+    <string name="traducido">(Itzulia) Ikusi jatorrizko testua</string>
+    <string name="noTraducido">(Jatorrizkoa) Ikusi itzulitako testua</string>
+    <string name="security">Pasahitzak maiuskulak eta minuskulak izan behar du, eta karaktere bereziak(@$!%*?&amp;.) eta gutxienez 8 karaktere izan behar ditu.</string>
+    <string name="notSpots">Ez dago leku nahikorik. eskuragarri:</string>
+    <string name="notAttendanceConfirmationEmail">Ekitaldi hau bertan behera utzi nahi baduzu, egin klik ondorengo estekan:</string>
+    <string-array name="languages">
+        <item>Ingelesez</item>
+        <item>Gaztelania</item>
+        <item>Katalanez</item>
+        <item>Euskal</item>
+        <item>Galiziako</item>
+    </string-array>
+</resources>

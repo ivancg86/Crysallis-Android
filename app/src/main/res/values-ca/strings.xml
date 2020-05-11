@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chrysallis Events</string>
+    <string name="English">Anglès</string>
+    <string name="Euskera">Basc</string>
+    <string name="Galician">Gallec</string>
+    <string name="Login">Iniciar sessió</string>
+    <string name="Spanish">Castellà</string>
+    <string name="language">Idioma</string>
+    <string name="password">Contrasenya</string>
+    <string name="telefono">Telèfon</string>
+    <string name="user">Usuari</string>
+    <string name="Catalan">Català</string>
+    <string name="messageForgotPassword"><u>He oblidat la contrasenya</u></string>
+    <string name="home">Home</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_explorar">Explorar</string>
+    <string name="destacados">Destacats</string>
+    <string name="title_chat">Xat</string>
+    <string name="loginIncorrect">Usuari i/o contrasenya incorrectes</string>
+    <string name="eventos">Els meus esdeveniments</string>
+    <string name="changePassword">Canviar contrasenya</string>
+    <string name="contact">Contacte</string>
+    <string name="community">Comunitat</string>
+    <string name="searchLabel">Buscar</string>
+    <string name="address">Adreça</string>
+    <string name="date">Data</string>
+    <string name="newPassword">Nova contrasenya</string>
+    <string name="newPasswordConfirmation">Confirmació de contrasenya</string>
+    <string name="passwordChanged">Contrasenya canviada</string>
+    <string name="accept">Acceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="passwordsNotMatch">Les contrasenyes no coincideixen</string>
+    <string name="changeLanguage">Canviar d\'idioma</string>
+    <string name="languageChanced">Idioma canviat</string>
+    <string name="restartApp">Reinicia l\'aplicació</string>
+    <string name="languageNotChanced" >Idioma no canviat</string>
+    <string name="passwordNotChanged">No s\'ha pogut canviar la contrasenya</string>
+    <string name="PermisoDenegado">Permís denegat</string>
+    <string name="ChooseGallery" >Trieu entre la galeria</string>
+    <string name="NoCamera" >El dispositiu no té càmera</string>
+    <string name="TakePhoto" >Fer una foto</string>
+    <string name="ChooseProfilePicture" >Trieu la imatge de perfil</string>
+    <string name="email">Correu electrònic</string>
+    <string name="msgNotEvents">No hi ha events nous actualment.</string>
+    <string name="sendPassword">Enviar contrasenya</string>
+    <string name="NewPasword">La teva nova contrasenya d\'Crysallis Events és:\u0020</string>
+    <string name="recomendacion">\n\nRecomendamos canviar aquesta contrasenya\n\nNo respondre, aquest és un correu automàtic</string>
+    <string name="errorEmail">El correu electrònic no s\'ha enviat correctament</string>
+    <string name="event">Event</string>
+    <string name="join">Apuntar-me</string>
+    <string name="notActive">Soci no actiu</string>
+    <string name="numAttendants">Nombre d’assistents</string>
+    <string name="notNumber">No s\'ha introduït un número vàlid</string>
+    <string name="attendanceConfirmation">Confirmació d\'assistència</string>
+    <string name="attendanceConfirmed">Assistència confirmada</string>
+    <string name="apuntado">Us heu inscrit a l’esdeveniment</string>
+    <string name="time">Hora</string>
+    <string name="description">Descripció</string>
+    <string name="noResponder">No respongueu es tracta d’un correu electrònic automàtic</string>
+    <string name="joined">Participant</string>
+    <string name="fechaLimite">No és possible participar-hi. Data límit d\'inscripció assolida.</string>
+    <string name="wrongDate">Data incorrecta, necessites seleccionar una data que sigui l\'actual o superior</string>
+    <string name="documents">Documents</string>
+    <string name="notAttendanceConfirmation">Confirmació de baixa</string>
+    <string name="notAttendance">Vols donar-te de baixa?</string>
+    <string name="notAttendanceConfirmed">Baixa confirmada</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="comment">Comentari</string>
+    <string name="noStars">No hi ha estrelles seleccionades</string>
+    <string name="ratingSaved">Valoració guardada</string>
+    <string name="rate">Valora</string>
+    <string name="PermisoConcedido">Permís concedit</string>
+    <string name="ImageChanged">S\'ha canviat la imatge</string>
+    <string name="ImageCannot2mb">La imatge no pot superar els 2 MB</string>
+    <string name="ImageNotChanged">La imatge no s\'ha canviat</string>
+    <string name="communityNotChanged">La comunitat no s\'ha canviat</string>
+    <string name="communityChanged">La comunitat s’ha canviat</string>
+    <string name="logout">Tancar sessió</string>
+    <string name="deleteConfirmation">Suprimir missatge</string>
+    <string name="messageDelete">El missatge serà eliminat definitivament</string>
+    <string name="messageDeleted">El missatge s\'ha suprimit</string>
+    <string name="messageNotDeleted">El missatge no s\'ha pogut suprimir</string>
+    <string name="writeAMessage">Escriu un missatge...</string>
+    <string name="msgNoDocuments">No hi ha documents per a aquest esdeveniment</string>
+    <string name="traducido">(Traduït) Vegeu el text original</string>
+    <string name="noTraducido">(Original) Vegeu el text traduït</string>
+    <string name="security">La contrasenya ha de tenir una minúscula, un majúscula, un caràcter especial(@$!%*?&amp;.) i una longitud mínima de 8 caràcters.</string>
+    <string name="notSpots">No hi ha prou places disponibles. Disponibles:</string>
+    <string name="notAttendanceConfirmationEmail">Si voleu donar-vos de baixa d’aquest esdeveniment, feu clic al següent enllaç:</string>
+    <string-array name="languages">
+        <item>Anglès</item>
+        <item>Castellà</item>
+        <item>Català</item>
+        <item>Euskera</item>
+        <item>Gallec</item>
+    </string-array>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chrysallis Events</string>
+    <string name="English">Inglés</string>
+    <string name="Euskera">Vasco</string>
+    <string name="Galician">Galego</string>
+    <string name="Login">Acceder</string>
+    <string name="Spanish">Español</string>
+    <string name="language">Lingua</string>
+    <string name="password">Contrasinal</string>
+    <string name="telefono">Teléfono</string>
+    <string name="user">Usuario</string>
+    <string name="Catalan">Catalán</string>
+    <string name="messageForgotPassword"><u>Esquecín o contrasinal</u></string>
+    <string name="home">Home</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_explorar">Explorar</string>
+    <string name="destacados">Destacado</string>
+    <string name="title_chat">Chat</string>
+    <string name="loginIncorrect">Nome de usuario e / ou contrasinal incorrectos</string>
+    <string name="eventos">Os meus eventos</string>
+    <string name="changePassword">Cambiar contrasinal</string>
+    <string name="contact">Contacto</string>
+    <string name="community">Comunidade</string>
+    <string name="searchLabel">Busca</string>
+    <string name="address">Dirección</string>
+    <string name="date">Data</string>
+    <string name="newPassword">Novo contrasinal</string>
+    <string name="newPasswordConfirmation">Confirmación de contrasinal</string>
+    <string name="passwordChanged">Cambiouse o contrasinal</string>
+    <string name="accept">Acepta</string>
+    <string name="cancel">Cancelar</string>
+    <string name="passwordsNotMatch">Os contrasinais non coinciden</string>
+    <string name="changeLanguage">Cambia de idioma</string>
+    <string name="languageChanced">Idioma cambiado</string>
+    <string name="restartApp">Reinicia a aplicación</string>
+    <string name="languageNotChanced" >Idioma non cambiado</string>
+    <string name="passwordNotChanged">Non se puido cambiar o contrasinal</string>
+    <string name="PermisoDenegado">Permiso denegado</string>
+    <string name="ChooseGallery" >Elixe entre a galería</string>
+    <string name="NoCamera" >O dispositivo non ten cámara</string>
+    <string name="TakePhoto" >Fai unha foto</string>
+    <string name="ChooseProfilePicture" >Escolle a imaxe de perfil</string>
+    <string name="email">Enderezo electrónico</string>
+    <string name="msgNotEvents">Actualmente non hai novos eventos.</string>
+    <string name="sendPassword">Enviar contrasinal</string>
+    <string name="NewPasword">O teu novo contrasinal de Crysallis Events é:\u0020</string>
+    <string name="recomendacion">\n\nSe recomendamos cambiar este contrasinal \n\nNon responder, este é un correo electrónico automático</string>
+    <string name="errorEmail">O correo electrónico non se enviou correctamente</string>
+    <string name="event">Evento</string>
+    <string name="join">Rexístrate</string>
+    <string name="notActive">Socio non activo</string>
+    <string name="numAttendants">Número de asistentes</string>
+    <string name="notNumber">Non se introduciu un número válido</string>
+    <string name="attendanceConfirmation">Confirmación de asistencia</string>
+    <string name="attendanceConfirmed">Confirmouse a asistencia</string>
+    <string name="apuntado">Rexistrarte para o evento</string>
+    <string name="time">O tempo</string>
+    <string name="description">Descrición</string>
+    <string name="noResponder">Non respondas este é un correo electrónico automático</string>
+    <string name="joined">Uniuse</string>
+    <string name="fechaLimite">Non é posible participar. Chegado o prazo de inscrición.</string>
+    <string name="wrongDate">Data incorrecta, ten que seleccionar unha data actual ou superior</string>
+    <string name="documents">Documentos</string>
+    <string name="notAttendanceConfirmation">Confirmación de cancelación</string>
+    <string name="notAttendance">Queres darte de baixa?</string>
+    <string name="notAttendanceConfirmed">Baixo confirmado</string>
+    <string name="no">Non</string>
+    <string name="yes">Si</string>
+    <string name="comment">Comentario</string>
+    <string name="noStars">Non hai estrelas seleccionadas</string>
+    <string name="ratingSaved">Valoración gardada</string>
+    <string name="rate">Valor</string>
+    <string name="PermisoConcedido">Permiso concedido</string>
+    <string name="ImageChanged">A imaxe cambiouse</string>
+    <string name="ImageCannot2mb">A imaxe non pode superar os 2 MB</string>
+    <string name="ImageNotChanged">A imaxe non se cambiou</string>
+    <string name="communityNotChanged">A comunidade non se cambiou</string>
+    <string name="communityChanged">A comunidade cambiouse</string>
+    <string name="logout">Desconectarse</string>
+    <string name="deleteConfirmation">Eliminar mensaxe</string>
+    <string name="messageDelete">A mensaxe eliminarase definitivamente</string>
+    <string name="messageDeleted">Eliminouse a mensaxe</string>
+    <string name="messageNotDeleted">Non se puido eliminar a mensaxe</string>
+    <string name="writeAMessage">Escribe unha mensaxe ...</string>
+    <string name="msgNoDocuments">Non hai documentos para este evento</string>
+    <string name="traducido">(Traducido) Ver texto orixinal</string>
+    <string name="noTraducido">(Orixinal) Ver texto traducido</string>
+    <string name="security">O contrasinal debe ser en minúscula, maiúscula, carácter especial(@$!%*?&amp;.) e ter unha lonxitude mínima de 8 caracteres.</string>
+    <string name="notSpots">Non hai prazas dispoñibles. Dispoñible:</string>
+    <string name="notAttendanceConfirmationEmail">Se queres darte de baixa deste evento, fai clic na seguinte ligazón:</string>
+    <string-array name="languages">
+        <item>Inglés</item>
+        <item>Español</item>
+        <item>Catalán</item>
+        <item>Vasco</item>
+        <item>Galego</item>
+    </string-array>
+</resources>

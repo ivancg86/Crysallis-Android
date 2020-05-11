@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <com.omadahealth.github.swipyrefreshlayout.library.SwipyRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:srl_direction="both"
+        android:id="@+id/refreshLayout">
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/RecyclerMensajes"/>
+
+    </com.omadahealth.github.swipyrefreshlayout.library.SwipyRefreshLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+        <EditText
+            android:id="@+id/txtMensaje"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxLines="5"
+            android:background="@drawable/rounded_white"
+            android:layout_margin="@dimen/borde_fragments"
+            android:hint="@string/writeAMessage"
+            android:maxLength="400"/>
+
+        <ImageButton
+            android:id="@+id/btnEnviar"
+            android:padding="@dimen/mrgEvent"
+            android:layout_width="@dimen/iconoMensaje"
+            android:layout_height="@dimen/iconoMensaje"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:src="@drawable/enviar"
+            android:background="@null"
+            android:layout_gravity="center_vertical|end"/>
+
+    </LinearLayout>
+
+</LinearLayout>

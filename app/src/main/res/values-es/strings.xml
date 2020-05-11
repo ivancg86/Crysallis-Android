@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chrysallis Events</string>
+    <string name="English">Inglés</string>
+    <string name="Euskera">Euskera</string>
+    <string name="Galician">Gallego</string>
+    <string name="Login">Iniciar sesión</string>
+    <string name="Spanish">Español</string>
+    <string name="language">Idioma</string>
+    <string name="password">Contraseña</string>
+    <string name="telefono">Teléfono</string>
+    <string name="user">Usuario</string>
+    <string name="Catalan">Catalán</string>
+    <string name="messageForgotPassword"><u>He olvidado la contraseña</u></string>
+    <string name="home">Home</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_explorar">Explorar</string>
+    <string name="destacados">Destacados</string>
+    <string name="title_chat">Chat</string>
+    <string name="loginIncorrect">Usuario y/o contraseña incorrectos</string>
+    <string name="eventos">Mis eventos</string>
+    <string name="changePassword">Cambiar contraseña</string>
+    <string name="contact">Contactar</string>
+    <string name="community">Comunidad</string>
+    <string name="searchLabel">Buscar</string>
+    <string name="address">Dirección</string>
+    <string name="date">Fecha</string>
+    <string name="newPassword">Nueva Contraseña</string>
+    <string name="newPasswordConfirmation">Confirmación de contraseña</string>
+    <string name="passwordChanged">Contraseña cambiada</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="passwordsNotMatch">Las contraseñas no coinciden</string>
+    <string name="changeLanguage">Cambiar idioma</string>
+    <string name="languageChanced">Idioma cambiado</string>
+    <string name="restartApp">Reiniciar aplicación</string>
+    <string name="languageNotChanced" >Idioma no cambiado</string>
+    <string name="passwordNotChanged">No se ha podido cambiar la contraseña</string>
+    <string name="PermisoDenegado">Permiso denegado</string>
+    <string name="ChooseGallery" >Elegir de la galería</string>
+    <string name="NoCamera" >El dispositivo no tiene cámara</string>
+    <string name="TakePhoto" >Hacer una foto</string>
+    <string name="ChooseProfilePicture" >Escoge foto de perfil</string>
+    <string name="email">Correo electrónico</string>
+    <string name="msgNotEvents">No hay eventos nuevos actualmente.</string>
+    <string name="sendPassword">Enviar contraseña</string>
+    <string name="NewPasword">Tu nueva contraseña de Crysallis Events es:\u0020</string>
+    <string name="recomendacion">\n\nRecomendamos cambiar esta contraseña \n\nNo responder, este es un correo automático</string>
+    <string name="errorEmail">El correo electrónico no se envió correctamente</string>
+    <string name="event">Evento</string>
+    <string name="join">Apuntarme</string>
+    <string name="notActive">Socio no activo</string>
+    <string name="numAttendants">Número de asistentes</string>
+    <string name="notNumber">No se introdujo un número válido</string>
+    <string name="attendanceConfirmation">Confirmación de asistencia</string>
+    <string name="attendanceConfirmed">Asistencia confirmada</string>
+    <string name="apuntado">Usted se ha apuntado al evento</string>
+    <string name="time">Hora</string>
+    <string name="description">Descripción</string>
+    <string name="joined">Participando</string>
+    <string name="fechaLimite">No es posible participar. Fecha límite de inscripción alcanzada.</string>
+    <string name="wrongDate">Fecha incorrecta, necesitas seleccionar una fecha que sea la actual o superior</string>
+    <string name="documents">Documentos</string>
+    <string name="notAttendanceConfirmation">Confirmación de baja</string>
+    <string name="notAttendance">¿Te quieres dar de baja?</string>
+    <string name="notAttendanceConfirmed">Baja confirmada</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="comment">Comentario</string>
+    <string name="noStars">No hay estrellas seleccionadas</string>
+    <string name="ratingSaved">Valoración guardada</string>
+    <string name="rate">Valora</string>
+    <string name="PermisoConcedido">Permiso concedido</string>
+    <string name="ImageChanged">La imagen ha sido cambiada</string>
+    <string name="ImageCannot2mb">La imagen no puede superar los 2 MB</string>
+    <string name="ImageNotChanged">La imagen no ha sido cambiada</string>
+    <string name="communityNotChanged">La comunidad no se ha cambiado</string>
+    <string name="communityChanged">La comunidad se ha cambiado</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="deleteConfirmation">Borrar mensaje</string>
+    <string name="messageDelete">El mensaje será eliminado permanentemente</string>
+    <string name="messageDeleted">El mensaje ha sido eliminado</string>
+    <string name="messageNotDeleted">El mensaje no pudo ser eliminado</string>
+    <string name="writeAMessage">Escribe un mensaje...</string>
+    <string name="msgNoDocuments">No hay documentos para este evento</string>
+    <string-array name="languages">
+        <item>Inglés</item>
+        <item>Español</item>
+        <item>Catalán</item>
+        <item>Euskera</item>
+        <item>Gallego</item>
+    </string-array>
+    <string name="noResponder">No responder, este es un correo electrónico automático</string>
+    <string name="traducido">(Traducido) Ver texto original</string>
+    <string name="noTraducido">(Original) Ver texto traducido</string>
+    <string name="security">La contraseña debe tener una minúscula, una mayúscula, un carácter especial(@$!%*?&amp;.) y una longitud mínima de 8 caracteres.</string>
+    <string name="notSpots">No hay suficientes plazas disponibles. Disponibles:</string>
+    <string name="notAttendanceConfirmationEmail">Si desea darse de baja de este evento, haga clic en el siguiente enlace:</string>
+</resources>

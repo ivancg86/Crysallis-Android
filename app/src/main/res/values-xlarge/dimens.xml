@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medio">30sp</dimen>
+    <dimen name="borde">6dp</dimen>
+    <dimen name="radio">27dp</dimen>
+    <dimen name="marginButton">32dp</dimen>
+    <dimen name="small">22sp</dimen>
+    <dimen name="imagenUsuario">130dp</dimen>
+    <dimen name="imagenPerfil">190dp</dimen>
+    <dimen name="icono">40dp</dimen>
+    <dimen name="borde_fragments">10dp</dimen>
+    <dimen name="sizeSpnSelectedItem">30sp</dimen>
+    <dimen name="msgNotEvents">35sp</dimen>
+    <dimen name="txtNameEvent">40sp</dimen>
+    <dimen name="txtEvent">25sp</dimen>
+    <dimen name="txtComEvent">30sp</dimen>
+    <dimen name="mrgEvent">17dp</dimen>
+    <dimen name="iconoMensaje">80dp</dimen>
+    <dimen name="sizeGrid">160dp</dimen>
+    <dimen name="btnJoin">20sp</dimen>
+    <dimen name="maxWidth">470dp</dimen>
+    <dimen name="grande">35sp</dimen>
+</resources>

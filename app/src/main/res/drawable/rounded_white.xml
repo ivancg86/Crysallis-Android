@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/radio" />
+            <solid
+                android:color="@color/blanco"/>
+            <stroke
+                android:width="@dimen/borde"
+                android:color="@color/grisClaro" />
+            <padding
+                android:bottom="@dimen/mrgEvent"
+                android:left="@dimen/mrgEvent"
+                android:right="@dimen/mrgEvent"
+                android:top="@dimen/mrgEvent" />
+        </shape>
+    </item>
+</selector>
